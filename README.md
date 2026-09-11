@@ -10,9 +10,19 @@ systems, PID control theory, C‑based firmware, and custom hardware integration
 This robot features a compact three‑tier acrylic chassis, two 65mm diameter wheels, two DC motors with encoders,
 and an STM32‑based control board. It uses continuous sensor feedback to adjust motor output and maintain upright balance.
 
-[Robot Front View](Photos/Robot_Front_View.jpg)
-[Robot Right Side View](Photos/Robot_Right_Side_View.jpg)
-[Robot Left Side View](Photos/Robot_Left_Side_View.jpg)
+---
+
+[Robot Front View](Photos/Robot_Front_View.jpeg)
+
+---
+
+[Robot Right Side View](Photos/Robot_Right_Side_View.jpeg)
+
+---
+
+[Robot Left Side View](Photos/Robot_Left_Side_View.jpeg)
+
+---
 
 ### Core Capabilities
 - Self‑balanceing using PID control  
