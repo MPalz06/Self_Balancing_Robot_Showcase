@@ -30,7 +30,7 @@ and an STM32‑based control board. It uses continuous sensor feedback to adjust
 - Modular firmware structure  
 - Custom chassis and hardware integration  
 
-[Balancing Demo](Videos/Robot_Balancing_Test.mov)
+[Balancing Demo](Videos/Robot_Balancing_Test.mp4)
 
 ---
 
